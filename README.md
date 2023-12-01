@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonwtrustpilot
 - 👀 I’m inteested in ... reducing friction and documenting for posterity
-- 🌱 I’m currently learning ... about Trustpilot Finance and HR integrations
-- 📫 How to reach me ... I'm in corporate systems at jon.whittlestone@trustpilot.com
+- 🌱 I’m currently learning ... about Finance and HR integrations
+- 📫 How to reach me ... I'm in corporate systems :)
 
 <!---
 jonwtrustpilot/jonwtrustpilot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
