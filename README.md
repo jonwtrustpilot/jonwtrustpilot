@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonwtrustpilot
-- 👀 I’m inteested in ... reducing friction and documenting for posterity
+- 👀 I’m interested in ... reducing friction and documenting for posterity
 - 🌱 I’m currently learning ... about Finance and HR integrations
 - 📫 How to reach me ... I'm in corporate systems :)
 
